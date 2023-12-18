@@ -1,2 +1,2 @@
-# Linux
-Linux Tips
+# Kubernetes
+Kubernetes Tips
